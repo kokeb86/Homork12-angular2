@@ -9,7 +9,7 @@ import { Component,Input } from '@angular/core';
   </ul>`,
   styles: []
 })
-export class Lab14Component  {
+export class Lab12Component  {
 
   constructor() {
     
